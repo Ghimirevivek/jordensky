@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+// Home component
 const Home = () => {
   return (
     <main className='w-full h-auto md:h-[100vh] flex flex-col items-center bg-gradient-to-b from-purple-300 to-indigo-400 '>
